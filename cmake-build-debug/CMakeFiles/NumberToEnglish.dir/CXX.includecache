@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/jvanderen11/OneDrive/General Programming/C++ Programs/NumberToEnglish/main.cpp
+cmath
+-
+iostream
+-
+
